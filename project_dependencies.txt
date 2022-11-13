@@ -1,0 +1,14 @@
+# OS
+Linux (I did it with WSL2 running on windows 10)
+
+# Container
+docker
+
+# Container management (K8s)
+kubernetes
+minikube
+k9s
+
+# Database
+mysql
+

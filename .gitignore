@@ -1,0 +1,9 @@
+# VSCode
+.vscode
+
+venv/
+
+*.sql
+!init.sql
+
+
